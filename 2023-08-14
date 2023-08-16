@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+<head>
+<title>Hyperliens</title>
+<meta name="description" content="Our first page">
+<meta name="keywords" content="html tutorial template">
+</head>
+<body>
+  Voici les liens du lundi 14 avril <br>
+<a href=https://www.ctvnews.ca/world/freed-u-s-nurse-says-christian-song-was-her-rallying-cry-after-she-was-kidnapped-in-haiti-1.6517494>Alix Dorsainvil</a><br>
+  <a href=https://www.aljazeera.com/news/2023/8/12/west-african-bloc-scraps-crisis-meeting-on-niger-coup>Afrique</a><br>
+  <a href=https://www.nbcnews.com/meet-the-press/video/u-s-led-international-mission-in-haiti-not-popular-because-of-fatigue-says-latin-america-expert-190662213860>Haiti</a><br>
+</body>
+</html>
